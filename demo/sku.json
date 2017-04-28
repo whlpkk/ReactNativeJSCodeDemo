@@ -1,0 +1,85 @@
+{
+"sku": [
+      {
+        "activeProductCount": 1148,
+        "curPrice": 3990,
+        "lockProductCount": 0,
+        "orgPrice": 15800,
+        "propertyName": "",
+        "propertyNum": "",
+        "vPicture": ""
+      },
+      {
+        "activeProductCount": 168,
+        "curPrice": 3990,
+        "lockProductCount": 0,
+        "orgPrice": 15800,
+        "propertyName": "颜色-粉红色:尺码-M适合体重40-50公斤",
+        "propertyNum": "1-1013:2-1121",
+        "vPicture": "640x700.bed72d3c895d2a77dc87f8f27082a266.jpg"
+      },
+      {
+        "activeProductCount": 174,
+        "curPrice": 3990,
+        "lockProductCount": 0,
+        "orgPrice": 15800,
+        "propertyName": "颜色-粉红色:尺码- L适合体重52-60公斤",
+        "propertyNum": "1-1013:2-1122",
+        "vPicture": "640x700.bed72d3c895d2a77dc87f8f27082a266.jpg"
+      },
+      {
+        "activeProductCount": 135,
+        "curPrice": 3990,
+        "lockProductCount": 0,
+        "orgPrice": 15800,
+        "propertyName": "颜色-紫色:尺码-M适合体重40-50公斤",
+        "propertyNum": "1-1015:2-1121",
+        "vPicture": "640x700.351733f934f0f8ade9d38288ea9cc66d.jpg"
+      },
+      {
+        "activeProductCount": 123,
+        "curPrice": 3990,
+        "lockProductCount": 0,
+        "orgPrice": 15800,
+        "propertyName": "颜色-紫色:尺码- L适合体重52-60公斤",
+        "propertyNum": "1-1015:2-1122",
+        "vPicture": "640x700.351733f934f0f8ade9d38288ea9cc66d.jpg"
+      },
+      {
+        "activeProductCount": 133,
+        "curPrice": 3990,
+        "lockProductCount": 0,
+        "orgPrice": 15800,
+        "propertyName": "颜色-红色:尺码-M适合体重40-50公斤",
+        "propertyNum": "1-1016:2-1121",
+        "vPicture": "640x700.bcc6219f3dfe3cea2da3932283003ca4.jpg"
+      },
+      {
+        "activeProductCount": 120,
+        "curPrice": 3990,
+        "lockProductCount": 0,
+        "orgPrice": 15800,
+        "propertyName": "颜色-红色:尺码- L适合体重52-60公斤",
+        "propertyNum": "1-1016:2-1122",
+        "vPicture": "640x700.bcc6219f3dfe3cea2da3932283003ca4.jpg"
+      },
+      {
+        "activeProductCount": 154,
+        "curPrice": 3990,
+        "lockProductCount": 0,
+        "orgPrice": 15800,
+        "propertyName": "颜色-黑色:尺码-M适合体重40-50公斤",
+        "propertyNum": "1-1024:2-1121",
+        "vPicture": "640x700.a84146ae7fb872fec3075a57b40830d6.jpg"
+      },
+      {
+        "activeProductCount": 141,
+        "curPrice": 3990,
+        "lockProductCount": 0,
+        "orgPrice": 15800,
+        "propertyName": "颜色-黑色:尺码- L适合体重52-60公斤",
+        "propertyNum": "1-1024:2-1122",
+        "vPicture": "640x700.a84146ae7fb872fec3075a57b40830d6.jpg"
+      }
+    ]
+  }

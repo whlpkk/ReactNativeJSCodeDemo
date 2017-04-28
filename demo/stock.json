@@ -1,0 +1,217 @@
+{
+  "stockItems": [
+    {
+      "count": 98,
+      "lockCount": 0,
+      "skuNum": "1-1001:4-70A"
+    },
+    {
+      "count": 100,
+      "lockCount": 0,
+      "skuNum": "1-1001:4-70B"
+    },
+    {
+      "count": 97,
+      "lockCount": 0,
+      "skuNum": "1-1001:4-70D"
+    },
+    {
+      "count": 97,
+      "lockCount": 0,
+      "skuNum": "1-1001:4-70E"
+    },
+    {
+      "count": 97,
+      "lockCount": 0,
+      "skuNum": "1-1001:4-75A"
+    },
+    {
+      "count": 94,
+      "lockCount": 0,
+      "skuNum": "1-1001:4-75B"
+    },
+    {
+      "count": 96,
+      "lockCount": 0,
+      "skuNum": "1-1002:4-70A"
+    },
+    {
+      "count": 95,
+      "lockCount": 0,
+      "skuNum": "1-1002:4-70B"
+    },
+    {
+      "count": 100,
+      "lockCount": 0,
+      "skuNum": "1-1002:4-70D"
+    },
+    {
+      "count": 96,
+      "lockCount": 0,
+      "skuNum": "1-1002:4-70E"
+    },
+    {
+      "count": 95,
+      "lockCount": 0,
+      "skuNum": "1-1002:4-75A"
+    },
+    {
+      "count": 94,
+      "lockCount": 0,
+      "skuNum": "1-1002:4-75B"
+    },
+    {
+      "count": 99,
+      "lockCount": 0,
+      "skuNum": "1-1003:4-70A"
+    },
+    {
+      "count": 99,
+      "lockCount": 0,
+      "skuNum": "1-1003:4-70B"
+    },
+    {
+      "count": 96,
+      "lockCount": 0,
+      "skuNum": "1-1003:4-70D"
+    },
+    {
+      "count": 93,
+      "lockCount": 0,
+      "skuNum": "1-1003:4-70E"
+    },
+    {
+      "count": 93,
+      "lockCount": 0,
+      "skuNum": "1-1003:4-75A"
+    },
+    {
+      "count": 90,
+      "lockCount": 0,
+      "skuNum": "1-1003:4-75B"
+    },
+    {
+      "count": 98,
+      "lockCount": 0,
+      "skuNum": "1-1004:4-70A"
+    },
+    {
+      "count": 99,
+      "lockCount": 0,
+      "skuNum": "1-1004:4-70B"
+    },
+    {
+      "count": 100,
+      "lockCount": 0,
+      "skuNum": "1-1004:4-70D"
+    },
+    {
+      "count": 100,
+      "lockCount": 0,
+      "skuNum": "1-1004:4-70E"
+    },
+    {
+      "count": 10,
+      "lockCount": 0,
+      "skuNum": "1-1004:4-75A"
+    },
+    {
+      "count": 100,
+      "lockCount": 0,
+      "skuNum": "1-1004:4-75B"
+    },
+    {
+      "count": 99,
+      "lockCount": 0,
+      "skuNum": "1-1006:4-70A"
+    },
+    {
+      "count": 100,
+      "lockCount": 0,
+      "skuNum": "1-1006:4-70B"
+    },
+    {
+      "count": 98,
+      "lockCount": 0,
+      "skuNum": "1-1006:4-70D"
+    },
+    {
+      "count": 98,
+      "lockCount": 0,
+      "skuNum": "1-1006:4-70E"
+    },
+    {
+      "count": 99,
+      "lockCount": 0,
+      "skuNum": "1-1006:4-75A"
+    },
+    {
+      "count": 97,
+      "lockCount": 0,
+      "skuNum": "1-1006:4-75B"
+    },
+    {
+      "count": 99,
+      "lockCount": 0,
+      "skuNum": "1-1007:4-70A"
+    },
+    {
+      "count": 100,
+      "lockCount": 0,
+      "skuNum": "1-1007:4-70B"
+    },
+    {
+      "count": 99,
+      "lockCount": 0,
+      "skuNum": "1-1007:4-70D"
+    },
+    {
+      "count": 100,
+      "lockCount": 0,
+      "skuNum": "1-1007:4-70E"
+    },
+    {
+      "count": 100,
+      "lockCount": 0,
+      "skuNum": "1-1007:4-75A"
+    },
+    {
+      "count": 99,
+      "lockCount": 0,
+      "skuNum": "1-1007:4-75B"
+    },
+    {
+      "count": 99,
+      "lockCount": 0,
+      "skuNum": "1-1008:4-70A"
+    },
+    {
+      "count": 100,
+      "lockCount": 0,
+      "skuNum": "1-1008:4-70B"
+    },
+    {
+      "count": 99,
+      "lockCount": 0,
+      "skuNum": "1-1008:4-70D"
+    },
+    {
+      "count": 98,
+      "lockCount": 0,
+      "skuNum": "1-1008:4-70E"
+    },
+    {
+      "count": 99,
+      "lockCount": 0,
+      "skuNum": "1-1008:4-75A"
+    },
+    {
+      "count": 98,
+      "lockCount": 0,
+      "skuNum": "1-1008:4-75B"
+    }
+  ],
+  "total": 4017,
+  "lockTotal": 0,
+  "productId": "ze151224175608010141"
+}
